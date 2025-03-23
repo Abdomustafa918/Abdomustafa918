@@ -40,21 +40,7 @@ Python C# JavaScript C++ SQL
 
 ## 📌 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" alt="Most Used Languages" width="500" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical&hide_border=true" alt="GitHub Streak" width="500" />
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark" alt="GitHub Achievements" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomustafa918&layout=compact&theme=tokyonight" alt="Most Used Languages" width="500" />
 </p>
 
 ---
@@ -63,23 +49,7 @@ Python C# JavaScript C++ SQL
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-## 🖥 Weekly Coding Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourgithubusername&layout=compact&theme=tokyonight" alt="Weekly Coding Stats" width="500" />
-</p>
-
----
-
-## 📫 Contact Me  
-📧 Email: *abdul.rahman2502391@gmail.com*   
-💼 LinkedIn: [Your LinkedIn](https://eg.linkedin.com/in/abdulrahman-mustafa-414840284)  
 
 ---
 
