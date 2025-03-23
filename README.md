@@ -33,18 +33,6 @@ Python C# JavaScript C++ SQL
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500" />
-</p>
-
-## 📌 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomustafa918&layout=compact&theme=tokyonight" alt="Most Used Languages" width="500" />
-</p>
-
----
-
 ## 🛠 Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
