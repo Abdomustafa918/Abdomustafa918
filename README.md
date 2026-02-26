@@ -20,7 +20,7 @@ Python C# JavaScript C++ SQL
 
 ## 🚀 Connect With Me  
 <p align="center">
-  <a href="https://eg.linkedin.com/in/abdulrahman-mustafa-414840284">
+  <a href="www.linkedin.com/in/abdulrahman-mustafa-9342a2357">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/abdo_mustafa918?s=21&t=SfSPg0mRm97ZfsD1iS928w">
