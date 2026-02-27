@@ -1,47 +1,119 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile! 👋</h1>
+<h1 align="center">Hi 👋 I'm Abdulrahman Mustafa</h1>
+<h3 align="center">Full-Stack Software Engineer | Backend Specialist | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A700&center=true&width=550&lines=Software+Engineer;Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+.NET+Developer;Backend+Architecture+Focused;React+%26+Modern+Frontend;AI+Integration+Enthusiast;Clean+Code+Advocate;Always+Learning!" />
 </p>
 
 ---
 
-## 🌟 About Me  
-👨‍💻 *Full-Stack Developer* | 🎯 *Problem Solver* | 🚀 *Software Testing*  
-I am passionate about *software development* and *problem-solving. I love building amazing projects and constantly learning **new technologies* to stay ahead in the tech world!  
+## 🚀 About Me
 
-💡 *Tech Stack:*  
-Python C# JavaScript C++ SQL  
+💡 Passionate **Full-Stack Software Engineer** with strong focus on scalable backend systems and clean architecture.  
+🧠 I enjoy solving complex problems and turning ideas into production-ready applications.  
+🎯 Currently focused on **Backend Development, System Design, and AI-powered solutions**.
 
-🎮 *Hobbies:*  
-🕹 Gaming | ⚽ Football Player | 📖 Reading | 🏋‍♂ Fitness  
+I believe in:
+- Writing clean, maintainable code
+- Building real-world scalable systems
+- Continuous improvement & learning
 
 ---
 
-## 🚀 Connect With Me  
+## 🛠 Tech Stack
+
+### 💻 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### 🤖 AI & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### ⚙ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://abdulrahman-myportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Healthcare AI Platform**  
+Full-stack healthcare management system with AI integration  
+- FastAPI Backend  
+- React + TypeScript Frontend  
+- AI Image & Tabular Models  
+- Role-based Authentication  
+
+🔹 **E-Commerce Platform**  
+Scalable full-stack e-commerce system with admin dashboard.
+
+🔹 **AI Assistant System**  
+Conversational AI integrated into web platform.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdomustafa918&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdomustafa918&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomustafa918&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔥 Building production-ready Full-Stack systems  
+- 🧠 Improving backend architecture & performance  
+- 🤖 AI integration into real-world applications  
+- 📚 Deepening knowledge in System Design  
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-mustafa-9342a2357/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/abdo_mustafa918?s=21&t=SfSPg0mRm97ZfsD1iS928w">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:abdul.rahman2502391@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tools & Technologies  
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-*⭐ Don't forget to star my repositories if you find them useful!*  
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcMzwkOY01njDhu/giphy.gif" width="200">
+  ⭐ If you like my work, consider starring my repositories!
 </p>
