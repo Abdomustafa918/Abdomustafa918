@@ -79,12 +79,12 @@ Conversational AI integrated into web platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdomustafa918&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdomustafa918&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdomustafa918&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Abdomustafa918&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomustafa918&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomustafa918&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
